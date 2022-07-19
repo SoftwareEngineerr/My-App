@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/MyApp/static/css/main.4ac3c55a.css",
+    "main.js": "/MyApp/static/js/main.a21ca4da.js",
+    "static/js/377.08ae303b.chunk.js": "/MyApp/static/js/377.08ae303b.chunk.js",
+    "static/media/about.jpg": "/MyApp/static/media/about.ea459d2c95bd8749a3ce.jpg",
+    "static/media/project.png": "/MyApp/static/media/project.e3547abd211521772c3c.png",
+    "static/media/asif1.png": "/MyApp/static/media/asif1.56a984c110f15a988345.png",
+    "static/media/project1.jpg": "/MyApp/static/media/project1.efbd4d8d9b385c8eb857.jpg",
+    "static/media/back.jpg": "/MyApp/static/media/back.17a3bb6c918a958aaa78.jpg",
+    "static/media/ibm.png": "/MyApp/static/media/ibm.1ed5fcee6693dfaf4af9.png",
+    "static/media/asif.png": "/MyApp/static/media/asif.7618cd0e7bc38c7a0c5d.png",
+    "static/media/private.jpg": "/MyApp/static/media/private.fc2896de9f38d75af924.jpg",
+    "static/media/development.jpg": "/MyApp/static/media/development.5513cada510443236834.jpg",
+    "static/media/robot.jpg": "/MyApp/static/media/robot.c897ed8e1fc1da463db8.jpg",
+    "static/media/event.jpg": "/MyApp/static/media/event.1f6a2a9c7547e4f9c978.jpg",
+    "static/media/experience.jpg": "/MyApp/static/media/experience.4bb68ae60aa0d443124b.jpg",
+    "static/media/rpa.jpg": "/MyApp/static/media/rpa.9748d386ab617ef2b718.jpg",
+    "static/media/business.jpg": "/MyApp/static/media/business.cbf8c76beb6541357652.jpg",
+    "static/media/podcasts.png": "/MyApp/static/media/podcasts.5fd096cf55d1dd831d1c.png",
+    "static/media/web.png": "/MyApp/static/media/web.5fd096cf55d1dd831d1c.png",
+    "static/media/engine.jpg": "/MyApp/static/media/engine.d5fd389bd3f88bd7260e.jpg",
+    "index.html": "/MyApp/index.html",
+    "main.4ac3c55a.css.map": "/MyApp/static/css/main.4ac3c55a.css.map",
+    "main.a21ca4da.js.map": "/MyApp/static/js/main.a21ca4da.js.map",
+    "377.08ae303b.chunk.js.map": "/MyApp/static/js/377.08ae303b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ac3c55a.css",
+    "static/js/main.a21ca4da.js"
+  ]
+}
